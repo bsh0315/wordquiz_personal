@@ -19,4 +19,6 @@ Word quiz is a small program implemented so that the quiz can be viewed with sim
  ./wordquiz
 ```
 
-## 
+## Contributors
+bsh0315, shlee4522
+
