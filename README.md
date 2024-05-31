@@ -2,6 +2,8 @@
 Word quiz is a small program implemented so that the quiz can be viewed with simple word chapters and words from word chapters. 
 This program was written only in C language
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ## How to execute?
 1. Clone to your local repository
 ```bash
