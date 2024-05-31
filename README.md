@@ -19,6 +19,16 @@ This program was written only in C language
 ```bash
  ./wordquiz
 ```
+## screenshots
+### Menu
+![image](https://github.com/bsh0315/wordquiz_personal/assets/96672629/b320657f-e1e2-4e5a-98f4-d5d0eb4a8615)
+
+### Word quiz
+![image](https://github.com/bsh0315/wordquiz_personal/assets/96672629/a0eceffd-20a8-4b47-8d0e-b2062297aec3)
+
+### Find a word in the wordbook
+![image](https://github.com/bsh0315/wordquiz_personal/assets/96672629/0c2d2193-4119-477c-9cb6-92ba440e8abf)
+
 
 ## Contributors
 bsh0315, shlee4522
