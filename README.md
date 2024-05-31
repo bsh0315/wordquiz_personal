@@ -27,7 +27,7 @@ This program was written only in C language
 3. Look at the vocabulary
 
 
-## screenshots
+## Screenshots
 #### Menu
 ![image](https://github.com/bsh0315/wordquiz_personal/assets/96672629/b320657f-e1e2-4e5a-98f4-d5d0eb4a8615)
 
